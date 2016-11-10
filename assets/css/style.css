@@ -1,0 +1,13 @@
+.navbar {
+    height: 100px ;
+    background-color: rgba(51,51,51,0.5);
+}
+ .navbar-brand img {
+            height: 70px
+        }
+.nav > li> a {
+    color: #fff;
+}
+.nav > li.active > a {
+    color: #F59503;
+} 
